@@ -1,2 +1,2 @@
-# disnake.Rinoa
-a classic Discord Bot written in disnake
+> [!IMPORTANT]
+> The Project Flux was officially created by [pouz](https://pouz.de/)
