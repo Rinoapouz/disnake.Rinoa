@@ -1,2 +1,2 @@
 > [!IMPORTANT]
-> The Project Flux was officially created by [pouz](https://pouz.de/)
+> The Project Rinoa was officially created by [pouz](https://pouz.de/)
